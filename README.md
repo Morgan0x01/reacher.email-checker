@@ -1,5 +1,4 @@
 # Reacher Email Verifier📧✅
-![Reacher-checker](https://i.imgur.com/CGaxuws.png)
 
 ## Description
 A Python CLI client for [Reacher](https://reacher.email/) (Open-Source Email Verification API) [backend](https://github.com/reacherhq/check-if-email-exists)⚙️.
