@@ -20,4 +20,4 @@ pip install -r requirements.txt
 ```
 
 ## Credits
-Thanks to [Amaury](https://github.com/amaury1729) for creating and open-sourcing Reacher.email backend.
+Thanks to [Amaury](https://github.com/amaury1093) for creating and open-sourcing Reacher.email backend.
